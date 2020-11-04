@@ -2,14 +2,14 @@
   "ads": {
     "id_app": "",
     "flury_id": "",
-    "banner_setting": "tzhehe",
-    "inter_setting": "tzhehe",
-    "banner_main": "tzhehe",
-    "inter_main": "tzhehe",
-    "banner_setting_new" : "tzhehe",
-    "inter_setting_new" : "tzhehe",
-    "banner_main_new" : "tzhehe",
-    "inter_main_new" : "tzhehe",
+    "banner_setting": "i2kb5dnb69",
+    "inter_setting": "o0ynsyxs5q",
+    "banner_main": "x3q1d7q5a5",
+    "inter_main": "g7o52duabp",
+    "banner_setting_new" : "i2kb5dnb69",
+    "inter_setting_new" : "o0ynsyxs5q",
+    "banner_main_new" : "x3q1d7q5a5",
+    "inter_main_new" : "g7o52duabp",
     "onlyAdmod": true,
     "onlyFB": false,
     "fb_banner": "",
@@ -23,7 +23,7 @@
     "is_exists": true,
     "is_show_more": false,
     "isLoading": false,
-    "isShowAds": false
+    "isShowAds": true
   },
   "apps": [
    {

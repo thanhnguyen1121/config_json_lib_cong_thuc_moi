@@ -1,0 +1,39 @@
+{
+  "ads": {
+    "id_app": "",
+    "flury_id": "",
+    "banner_setting": "",
+    "inter_setting": "",
+    "banner_main": "",
+    "inter_main": "",
+    "banner_setting_new" : "",
+    "inter_setting_new" : "",
+    "banner_main_new" : "",
+    "inter_main_new" : "",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "",
+    "fb_inter": ""
+  },
+  "isExit": true,
+  "showMoreApp": false,
+  "idNew": "",
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
+    "is_show_more": false,
+    "isLoading": false,
+    "isShowAds": true
+  },
+  "apps": [
+   {
+      "id": "com.guide.freefire.maps.diamonds",
+      "icon": "https://play-lh.googleusercontent.com/dVhLTqXbwFudWxdS4lRPgHl4GqTnoKHG8Lx8VzaicqQQ2PWxL2Phw8_mfDHdcV-Q5CeE=s180-rw",
+      "name": "Map guide for free Fire - free fire map",
+      "des": "Likes, Followers for Instragram 2020 : Gain and Boost more Fans & Followers. Get discovered quickly - boost your profile views and engagement and real likes followers.",
+      "s1":"https://play-lh.googleusercontent.com/CoO9KgdqXy4Z9g28uPlL_j6vCWqFU7U42gSmGprxR3xakhkrqe4mVjd37CRzw7w1cg=w720-h310-rw",
+      "s2":"https://play-lh.googleusercontent.com/gCzDhLXVGjYa2PQARuB6GRREAPMeVofpOgE9yaM1Gu5BqL0DxdrB3NsdaNjUxAYGoeY=w720-h310-rw",
+      "s3":"https://play-lh.googleusercontent.com/JMjmm_zIExFH0U_x13_Tj4TGWG6vIUr4Tqvcj7BHoAsJSnmKm6WpI-1eb8t6nUE_Ww=w720-h310-rw"
+    }
+  ]
+}

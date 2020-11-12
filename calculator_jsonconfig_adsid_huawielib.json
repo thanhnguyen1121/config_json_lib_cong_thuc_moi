@@ -23,7 +23,7 @@
     "is_exists": true,
     "is_show_more": false,
     "isLoading": false,
-    "isShowAds": true
+    "isShowAds": false
   },
   "apps": [
    {
